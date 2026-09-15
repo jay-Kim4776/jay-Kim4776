@@ -3,6 +3,11 @@
 <!--
 **jay-Kim4776/jay-Kim4776** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<h3 align="center"><b>Code Lang</b></h3>
+<div align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white"/>
+</div>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
