@@ -35,9 +35,9 @@ Complex System Analysis | Industrial Factory Automation (FA) | System Integratio
 ---
 
 ### 📊 GitHub Stats
-![J Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radial)
+![J Kim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jay-Kim4776&show_icons=true&theme=radial)
 
 ---
 
 ### 📫 How to reach me
-- **Email**: your-email@example.com
+- **Email**: rlawngur4776@naver.com
