@@ -11,7 +11,8 @@ Complex System Analysis | Industrial Factory Automation (FA) | System Integratio
 - 🏭 Specializing in **Factory Automation (FA)** and **System Integration (SI)**.
 - 💻 Experienced in high-level software development using **C#**, **C/C++**, **VB**, and **JavaScript**.
 - 🗄️ Proficient in designing and managing industrial databases with **MS-SQL** and **Oracle**.
-- ⚙️ Skilled in **PLC programming**, industrial communication drivers, and **HMI/SCADA** monitoring systems.
+- ⚙️ Skilled in **Multi-Vendor PLC Programming** (Allen-Bradley, Mitsubishi, LS Electric).
+- 🔌 Expertise in data integration using **OPC (OPC UA / OPC DA)**, industrial communication drivers, and **HMI/SCADA** monitoring systems.
 - ✈️ Adept at working in high-mobility environments with frequent domestic & international business trips for commissioning and troubleshooting.
 
 ---
@@ -30,8 +31,13 @@ Complex System Analysis | Industrial Factory Automation (FA) | System Integratio
 ![MS-SQL](https://img.shields.io/badge/MS--SQL-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
-**Industrial Automation & PLC**
-![PLC](https://img.shields.io/badge/PLC-Automation-00599C?style=for-the-badge&logo=siemens&logoColor=white)
+**PLC & Industrial Automation**
+![Allen Bradley](https://img.shields.io/badge/Allen--Bradley-DA291C?style=for-the-badge&logo=rockwellautomation&logoColor=white)
+![Mitsubishi](https://img.shields.io/badge/Mitsubishi-E60012?style=for-the-badge&logo=mitsubishielectric&logoColor=white)
+![LS Electric](https://img.shields.io/badge/LS%20Electric-005197?style=for-the-badge)
+
+**Protocols & Integration**
+![OPC UA/DA](https://img.shields.io/badge/OPC%20UA--DA-00599C?style=for-the-badge)
 ![Modbus](https://img.shields.io/badge/Modbus-EtherNet/IP-FF6F00?style=for-the-badge)
 ![SCADA](https://img.shields.io/badge/HMI%2FSCADA-System-41B883?style=for-the-badge)
 
