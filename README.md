@@ -1,4 +1,4 @@
-# Hi there, I'm J Kim 👋
+# Hi there, I'm Jay Kim 👋
 
 ### 🛠️ Software & PLC Engineer
 Complex System Analysis | Industrial Factory Automation (FA) | System Integration (SI)
