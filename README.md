@@ -57,3 +57,4 @@ Complex System Analysis | Industrial Factory Automation (FA) | System Integratio
 ### 📫 How to reach me
 - **Email**: rlawngur4776@naver.com
 - **GitHub**: [github.com/jay-Kim4776](https://github.com/jay-Kim4776)
+- **Web**: [jay-kim4776.github.io](https://jay-kim4776.github.io/JCore-Releases/index.html)
